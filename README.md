@@ -6,7 +6,7 @@
 
 My HackerRank profile: [@Ultirequiem](https://www.hackerrank.com/Ultirequiem)
 
-## Starts
+## Stars
 
 - Python ⭐⭐⭐⭐⭐ (5)
 
