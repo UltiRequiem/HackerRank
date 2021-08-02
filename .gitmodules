@@ -1,3 +1,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/UltiRequiem/hacker-rank-python
+[submodule "10-days-of-js"]
+	path = 10-days-of-js
+	url = https://github.com/UltiRequiem/10-days-of-js
