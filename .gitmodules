@@ -4,3 +4,6 @@
 [submodule "10-days-of-js"]
 	path = 10-days-of-js
 	url = https://github.com/UltiRequiem/10-days-of-js
+[submodule "30-days-of-code"]
+	path = 30-days-of-code
+	url = https://github.com/UltiRequiem/30-days-of-code
